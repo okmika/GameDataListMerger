@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameDataListMerger", "GameDataListMerger\GameDataListMerger.csproj", "{B9B6DFFC-2C97-48B3-89D6-E2D52C05E7B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{3E9A4FD5-C455-45E8-85F8-9BF72A63123B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKMM.SarcTool.Core", "lib\TKMM-SARC\TKMM.SarcTool.Core\TKMM.SarcTool.Core.csproj", "{979A825A-11DB-44DE-9FD4-A6A726111053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9B6DFFC-2C97-48B3-89D6-E2D52C05E7B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B6DFFC-2C97-48B3-89D6-E2D52C05E7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B6DFFC-2C97-48B3-89D6-E2D52C05E7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B6DFFC-2C97-48B3-89D6-E2D52C05E7B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979A825A-11DB-44DE-9FD4-A6A726111053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979A825A-11DB-44DE-9FD4-A6A726111053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979A825A-11DB-44DE-9FD4-A6A726111053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979A825A-11DB-44DE-9FD4-A6A726111053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{979A825A-11DB-44DE-9FD4-A6A726111053} = {3E9A4FD5-C455-45E8-85F8-9BF72A63123B}
+	EndGlobalSection
+EndGlobal
