@@ -282,7 +282,7 @@ public partial class MainForm : Form {
     private void gameBananaLinkLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e) {
         var startInfo = new ProcessStartInfo() {
             UseShellExecute = true,
-            FileName = "https://www.gamebanana.com"
+            FileName = "https://gamebanana.com/tools/16842"
         };
 
         Process.Start(startInfo);
