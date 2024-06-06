@@ -332,7 +332,7 @@ partial class MainForm {
         label5.Name = "label5";
         label5.Size = new Size(43, 15);
         label5.TabIndex = 2;
-        label5.Text = "v. 1.0.2";
+        label5.Text = "v. 1.0.3";
         // 
         // MainForm
         // 
